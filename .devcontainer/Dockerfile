@@ -25,6 +25,12 @@ if [ -d "$FNM_PATH" ]; then
 fi
 NESTED_EOF
 
+##
+## General apt deps
+##
+
+sudo apt update && sudo apt install -y graphviz
+
 EOF
 
 
