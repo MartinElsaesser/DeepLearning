@@ -29,7 +29,7 @@ NESTED_EOF
 ## General apt deps
 ##
 
-sudo apt update && sudo apt install -y graphviz
+sudo apt update && sudo apt install -y graphviz libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 EOF
 
