@@ -1,7 +1,8 @@
 {
 	"editor.tabSize": 4,
 	"editor.useTabStops": true,
-	"editor.insertSpaces": false,
+	"editor.insertSpaces": true,
+	"editor.detectIndentation": false,
 	"cSpell.words": [
 		"marimo",
 		"pyrefly"
